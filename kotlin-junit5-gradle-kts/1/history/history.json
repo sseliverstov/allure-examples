@@ -1,0 +1,122 @@
+{
+  "86f4278ae3656c930bfbf4f995656a70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d4376898f700084",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/kotlin-junit5-gradle-kts/1//#testresult/6d4376898f700084",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597415669292,
+        "stop" : 1597415669294,
+        "duration" : 2
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7658ae7a36a86ccd",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/kotlin-junit5-gradle-kts/1//#testresult/7658ae7a36a86ccd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597415669283,
+        "stop" : 1597415669286,
+        "duration" : 3
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cec32429a9ea165",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/kotlin-junit5-gradle-kts/1//#testresult/6cec32429a9ea165",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597415668885,
+        "stop" : 1597415669020,
+        "duration" : 135
+      }
+    } ]
+  },
+  "42e78a12ffdafedde84c3e9a61585391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1580e24a6f6f199",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/kotlin-junit5-gradle-kts/1//#testresult/c1580e24a6f6f199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597415669315,
+        "stop" : 1597415669336,
+        "duration" : 21
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7a5ed9d3c0ec9ef",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/kotlin-junit5-gradle-kts/1//#testresult/e7a5ed9d3c0ec9ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597415669221,
+        "stop" : 1597415669250,
+        "duration" : 29
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa633b6f9e54c657",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/kotlin-junit5-gradle-kts/1//#testresult/aa633b6f9e54c657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597415669261,
+        "stop" : 1597415669262,
+        "duration" : 1
+      }
+    } ]
+  }
+}
