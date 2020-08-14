@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://simple-elf.github.io/allure-examples/java-junit4-gradle",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #208174028",
+  "buildUrl" : "https://github.com/simple-elf/allure-examples/actions/runs/208174028",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-gradle/2/"
+} ]
