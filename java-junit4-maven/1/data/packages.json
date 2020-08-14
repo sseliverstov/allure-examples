@@ -1,0 +1,87 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "io.qameta.allure.examples.junit4",
+    "children" : [ {
+      "name" : "allureParameterizedTest[First Name]",
+      "uid" : "49f5f30bf1799517",
+      "parentUid" : "94e1845519b3d8278edc7365abd03de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385637883,
+        "stop" : 1597385637902,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "First Name" ]
+    }, {
+      "name" : "allureParameterizedTest[Second Name]",
+      "uid" : "350245d3dcc1457c",
+      "parentUid" : "94e1845519b3d8278edc7365abd03de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638046,
+        "stop" : 1597385638047,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Second Name" ]
+    }, {
+      "name" : "allureFixtureTest",
+      "uid" : "bcf5555e88802219",
+      "parentUid" : "94e1845519b3d8278edc7365abd03de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638092,
+        "stop" : 1597385638093,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "allureFixtureTest2",
+      "uid" : "f687de628b658832",
+      "parentUid" : "94e1845519b3d8278edc7365abd03de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638095,
+        "stop" : 1597385638096,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "allureFakeParameterizedTest",
+      "uid" : "a53a22478e864b3e",
+      "parentUid" : "94e1845519b3d8278edc7365abd03de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638134,
+        "stop" : 1597385638134,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "fakeValue" ]
+    }, {
+      "name" : "allureSimpleTest",
+      "uid" : "ac7f5a40aa10f2bf",
+      "parentUid" : "94e1845519b3d8278edc7365abd03de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638140,
+        "stop" : 1597385638170,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "io.qameta.allure.examples.junit4"
+  } ],
+  "name" : "packages"
+}

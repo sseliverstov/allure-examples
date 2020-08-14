@@ -1,0 +1,61 @@
+[ {
+  "uid" : "a53a22478e864b3e",
+  "name" : "allureFakeParameterizedTest",
+  "time" : {
+    "start" : 1597385638134,
+    "stop" : 1597385638134,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcf5555e88802219",
+  "name" : "allureFixtureTest",
+  "time" : {
+    "start" : 1597385638092,
+    "stop" : 1597385638093,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f687de628b658832",
+  "name" : "allureFixtureTest2",
+  "time" : {
+    "start" : 1597385638095,
+    "stop" : 1597385638096,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac7f5a40aa10f2bf",
+  "name" : "allureSimpleTest displayName",
+  "time" : {
+    "start" : 1597385638140,
+    "stop" : 1597385638170,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49f5f30bf1799517",
+  "name" : "allureParameterizedTest[First Name]",
+  "time" : {
+    "start" : 1597385637883,
+    "stop" : 1597385637902,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "350245d3dcc1457c",
+  "name" : "allureParameterizedTest[Second Name]",
+  "time" : {
+    "start" : 1597385638046,
+    "stop" : 1597385638047,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

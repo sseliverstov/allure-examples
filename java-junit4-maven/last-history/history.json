@@ -1,0 +1,122 @@
+{
+  "f3a7e484b86711cf869dfdfe0e19e7ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f687de628b658832",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-maven/1//#testresult/f687de628b658832",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638095,
+        "stop" : 1597385638096,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f3c60da6e233987a17a16258c52429ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "350245d3dcc1457c",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-maven/1//#testresult/350245d3dcc1457c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638046,
+        "stop" : 1597385638047,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7b6b8a2f8e238d3b30275e2fd96e0b11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a53a22478e864b3e",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-maven/1//#testresult/a53a22478e864b3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638134,
+        "stop" : 1597385638134,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fc6cb7e44fb1c98115b734d2e79fec7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcf5555e88802219",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-maven/1//#testresult/bcf5555e88802219",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638092,
+        "stop" : 1597385638093,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b2e8b119cbd0cf616f1cf7ed5c768cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac7f5a40aa10f2bf",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-maven/1//#testresult/ac7f5a40aa10f2bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385638140,
+        "stop" : 1597385638170,
+        "duration" : 30
+      }
+    } ]
+  },
+  "c45db4b7efd52189651e5e579649e598" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "49f5f30bf1799517",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-maven/1//#testresult/49f5f30bf1799517",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597385637883,
+        "stop" : 1597385637902,
+        "duration" : 19
+      }
+    } ]
+  }
+}
