@@ -1,0 +1,122 @@
+{
+  "uid" : "f2994347063f237d",
+  "name" : "allureParameterizedTest[Second Name]",
+  "fullName" : "io.qameta.allure.examples.junit4.AllureParameterizedTest.allureParameterizedTest[Second Name]",
+  "historyId" : "f3c60da6e233987a17a16258c52429ff",
+  "time" : {
+    "start" : 1597391140216,
+    "stop" : 1597391140217,
+    "duration" : 1
+  },
+  "description" : "allureParameterizedTest description",
+  "descriptionHtml" : "<p>allureParameterizedTest description</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "allureParameterizedTest description",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside parameterized test",
+      "time" : {
+        "start" : 1597391140217,
+        "stop" : 1597391140217,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Test parameter: Second Name",
+      "time" : {
+        "start" : 1597391140217,
+        "stop" : 1597391140217,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit4"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit4.AllureParameterizedTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureParameterizedTest[Second Name]"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit4.AllureParameterizedTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az60"
+  }, {
+    "name" : "thread",
+    "value" : "4072@fv-az60.Test worker(9)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "testParam",
+    "value" : "Second Name"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "fc18f6cf0307bbd1",
+        "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-gradle-kts/1//#testresult/fc18f6cf0307bbd1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597388166854,
+          "stop" : 1597388166854,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f2994347063f237d.json",
+  "parameterValues" : [ "Second Name" ]
+}

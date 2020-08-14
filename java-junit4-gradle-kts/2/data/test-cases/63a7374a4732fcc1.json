@@ -1,0 +1,131 @@
+{
+  "uid" : "63a7374a4732fcc1",
+  "name" : "allureFixtureTest",
+  "fullName" : "io.qameta.allure.examples.junit4.AllureFixtureTest.allureFixtureTest",
+  "historyId" : "fc6cb7e44fb1c98115b734d2e79fec7d",
+  "time" : {
+    "start" : 1597391140243,
+    "stop" : 1597391140245,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside before",
+      "time" : {
+        "start" : 1597391140244,
+        "stop" : 1597391140244,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Step inside allureFixtureTest",
+      "time" : {
+        "start" : 1597391140244,
+        "stop" : 1597391140244,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Step inside after",
+      "time" : {
+        "start" : 1597391140244,
+        "stop" : 1597391140244,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit4"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit4.AllureFixtureTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureFixtureTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit4.AllureFixtureTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az60"
+  }, {
+    "name" : "thread",
+    "value" : "4072@fv-az60.Test worker(9)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "40d463a79d53977e",
+        "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit4-gradle-kts/1//#testresult/40d463a79d53977e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597388166877,
+          "stop" : 1597388166879,
+          "duration" : 2
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "63a7374a4732fcc1.json",
+  "parameterValues" : [ ]
+}
