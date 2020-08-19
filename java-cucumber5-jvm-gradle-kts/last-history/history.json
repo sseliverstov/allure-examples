@@ -1,0 +1,286 @@
+{
+  "6c5e4728d27ca5f06be0153a1dac5c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de3e1b8977c09d55",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/de3e1b8977c09d55",
+      "status" : "broken",
+      "statusDetails" : "Element not found for xpath [//div[@class='something']]",
+      "time" : {
+        "start" : 1597824028543,
+        "stop" : 1597824028576,
+        "duration" : 33
+      }
+    } ]
+  },
+  "717f0511ce4d0fe00e76113484a0f051" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2ee386b5986a76d",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/a2ee386b5986a76d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028471,
+        "stop" : 1597824028498,
+        "duration" : 27
+      }
+    } ]
+  },
+  "2c6293600b0540488b45a54267780550" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1314bd604d1778f5",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/1314bd604d1778f5",
+      "status" : "broken",
+      "statusDetails" : "Element not found for xpath [//div[@class='something']]",
+      "time" : {
+        "start" : 1597824028588,
+        "stop" : 1597824028613,
+        "duration" : 25
+      }
+    } ]
+  },
+  "e509c4c6de4e5cecb9d9ec918f3c625b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59cc77ba22d56f98",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/59cc77ba22d56f98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028518,
+        "stop" : 1597824028528,
+        "duration" : 10
+      }
+    } ]
+  },
+  "f7ef8eb5326a2d8a0890ddf96abebd29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e13a7a454d410da",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/2e13a7a454d410da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028646,
+        "stop" : 1597824028655,
+        "duration" : 9
+      }
+    } ]
+  },
+  "3b99172849a956d077462dbdc8532625" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5d26ae33372bec6",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/c5d26ae33372bec6",
+      "status" : "broken",
+      "statusDetails" : "Element not found for xpath [//div[@class='something']]",
+      "time" : {
+        "start" : 1597824028600,
+        "stop" : 1597824028611,
+        "duration" : 11
+      }
+    } ]
+  },
+  "f9c66bf9ddd19869dacb865700c9ee29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c678ebfaefb8dd",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/2c678ebfaefb8dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028312,
+        "stop" : 1597824028338,
+        "duration" : 26
+      }
+    } ]
+  },
+  "3ca2a82570b650339433b7160c01f3d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "423c4959cf4b30c0",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/423c4959cf4b30c0",
+      "status" : "broken",
+      "statusDetails" : "Element not found for xpath [//div[@class='something']]",
+      "time" : {
+        "start" : 1597824028531,
+        "stop" : 1597824028578,
+        "duration" : 47
+      }
+    } ]
+  },
+  "6ed04ace1f8de16088dbfd2c50967145" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9c11b2c4cf43b5f",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/d9c11b2c4cf43b5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028631,
+        "stop" : 1597824028638,
+        "duration" : 7
+      }
+    } ]
+  },
+  "69c896b3df376ef2754d20e7bf3dd1ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "281e09ccfecf12c2",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/281e09ccfecf12c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028009,
+        "stop" : 1597824028466,
+        "duration" : 457
+      }
+    } ]
+  },
+  "89b918b912287df1aae4c789a297a192" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c135bdc8afa56e68",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/c135bdc8afa56e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028640,
+        "stop" : 1597824028656,
+        "duration" : 16
+      }
+    } ]
+  },
+  "8c3a5b90445408153e29b97a06975a23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b40cbc3745e4ac9",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/1b40cbc3745e4ac9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028502,
+        "stop" : 1597824028530,
+        "duration" : 28
+      }
+    } ]
+  },
+  "843df6f6ac7f645bb7d612a7c4fd9f67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68be090b6a0be6ea",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/68be090b6a0be6ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028481,
+        "stop" : 1597824028491,
+        "duration" : 10
+      }
+    } ]
+  },
+  "f0a15182df0b840d6d9b36e79eb6484" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a2bab13228727b6",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-gradle-kts/1//#testresult/9a2bab13228727b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597824028614,
+        "stop" : 1597824028639,
+        "duration" : 25
+      }
+    } ]
+  }
+}

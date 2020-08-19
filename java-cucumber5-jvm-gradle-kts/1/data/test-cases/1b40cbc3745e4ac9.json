@@ -1,0 +1,56 @@
+{
+  "uid" : "1b40cbc3745e4ac9",
+  "name" : "Create new label for authorized user",
+  "fullName" : "Labels.Create new label for authorized user",
+  "historyId" : "8c3a5b90445408153e29b97a06975a23",
+  "time" : {
+    "start" : 1597824028502,
+    "stop" : 1597824028530,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Labels"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create new label for authorized user"
+  }, {
+    "name" : "suite",
+    "value" : "Labels"
+  }, {
+    "name" : "host",
+    "value" : "fv-az54"
+  }, {
+    "name" : "thread",
+    "value" : "4127@fv-az54.Test worker(9)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b40cbc3745e4ac9.json",
+  "parameterValues" : [ ]
+}
