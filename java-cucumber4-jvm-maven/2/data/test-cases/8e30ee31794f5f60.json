@@ -1,0 +1,156 @@
+{
+  "uid" : "8e30ee31794f5f60",
+  "name" : "Delete existing label for authorized user",
+  "fullName" : "Labels: Delete existing label for authorized user",
+  "historyId" : "ca12c9df78122971dc795a4beced575a",
+  "time" : {
+    "start" : 1597818239168,
+    "stop" : 1597818241173,
+    "duration" : 2005
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When  I open labels page",
+      "time" : {
+        "start" : 1597818239169,
+        "stop" : 1597818239169,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  I create label with title \"hello\"",
+      "time" : {
+        "start" : 1597818239169,
+        "stop" : 1597818239170,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  I delete label with title \"hello\"",
+      "time" : {
+        "start" : 1597818239170,
+        "stop" : 1597818240171,
+        "duration" : 1001
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I should not see note with content \"hello\"",
+      "time" : {
+        "start" : 1597818240172,
+        "stop" : 1597818241172,
+        "duration" : 1000
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "host",
+    "value" : "fv-az50"
+  }, {
+    "name" : "thread",
+    "value" : "4075@fv-az50.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "story",
+    "value" : "Delete existing label for authorized user"
+  }, {
+    "name" : "suite",
+    "value" : "Labels"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete existing label for authorized user"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/resources/features/labels-web.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.features.labels-web_feature.Labels"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e8eb6b23fddb3185",
+        "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber4-jvm-maven/1//#testresult/e8eb6b23fddb3185",
+        "status" : "broken",
+        "statusDetails" : "Element not found for xpath [//div[@class='something']]",
+        "time" : {
+          "start" : 1597816160963,
+          "stop" : 1597816160974,
+          "duration" : 11
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "8e30ee31794f5f60.json",
+  "parameterValues" : [ ]
+}

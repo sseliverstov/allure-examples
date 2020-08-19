@@ -1,0 +1,155 @@
+{
+  "uid" : "9f266bd3ddef3422",
+  "name" : "Close existing milestone for authorized user",
+  "fullName" : "Milestones: Close existing milestone for authorized user",
+  "historyId" : "6d3df4d2f995fd223f747273525a8d27",
+  "time" : {
+    "start" : 1597818241180,
+    "stop" : 1597818241183,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When  I open milestones page",
+      "time" : {
+        "start" : 1597818241181,
+        "stop" : 1597818241181,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  I create milestone with title \"hello\"",
+      "time" : {
+        "start" : 1597818241181,
+        "stop" : 1597818241181,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  I delete milestone with title \"hello\"",
+      "time" : {
+        "start" : 1597818241182,
+        "stop" : 1597818241182,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I should not see milestone with content \"hello\"",
+      "time" : {
+        "start" : 1597818241182,
+        "stop" : 1597818241183,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "regress"
+  }, {
+    "name" : "host",
+    "value" : "fv-az50"
+  }, {
+    "name" : "thread",
+    "value" : "4075@fv-az50.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Milestones"
+  }, {
+    "name" : "story",
+    "value" : "Close existing milestone for authorized user"
+  }, {
+    "name" : "suite",
+    "value" : "Milestones"
+  }, {
+    "name" : "testClass",
+    "value" : "Close existing milestone for authorized user"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/resources/features/milestone-web.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.features.milestone-web_feature.Milestones"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "63cd68c8da0220f2",
+        "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber4-jvm-maven/1//#testresult/63cd68c8da0220f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597816160991,
+          "stop" : 1597816160997,
+          "duration" : 6
+        }
+      } ]
+    },
+    "tags" : [ "regress" ]
+  },
+  "source" : "9f266bd3ddef3422.json",
+  "parameterValues" : [ ]
+}
