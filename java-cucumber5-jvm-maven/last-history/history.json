@@ -1,0 +1,144 @@
+{
+  "6c5e4728d27ca5f06be0153a1dac5c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7860f8efb1de1c5f",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/7860f8efb1de1c5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597819396259,
+        "stop" : 1597819397279,
+        "duration" : 1020
+      }
+    } ]
+  },
+  "e509c4c6de4e5cecb9d9ec918f3c625b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "582b1fbacd049a89",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/582b1fbacd049a89",
+      "status" : "broken",
+      "statusDetails" : "Element not found for xpath [//div[@class='something']]",
+      "time" : {
+        "start" : 1597819396230,
+        "stop" : 1597819396241,
+        "duration" : 11
+      }
+    } ]
+  },
+  "843df6f6ac7f645bb7d612a7c4fd9f67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc93ec9df0382fad",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/fc93ec9df0382fad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597819396206,
+        "stop" : 1597819396212,
+        "duration" : 6
+      }
+    } ]
+  },
+  "f7ef8eb5326a2d8a0890ddf96abebd29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af7c9734d2d7c12f",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/af7c9734d2d7c12f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597819398335,
+        "stop" : 1597819398340,
+        "duration" : 5
+      }
+    } ]
+  },
+  "3b99172849a956d077462dbdc8532625" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5968946c02a863",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/f5968946c02a863",
+      "status" : "failed",
+      "statusDetails" : "expected [another text] but found [hello]",
+      "time" : {
+        "start" : 1597819397286,
+        "stop" : 1597819398296,
+        "duration" : 1010
+      }
+    } ]
+  },
+  "f9c66bf9ddd19869dacb865700c9ee29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3acd3d1b2706b3c",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/3acd3d1b2706b3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597819396077,
+        "stop" : 1597819396088,
+        "duration" : 11
+      }
+    } ]
+  },
+  "6ed04ace1f8de16088dbfd2c50967145" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e8ef259be73bb45",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-cucumber5-jvm-maven/1//#testresult/2e8ef259be73bb45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597819398318,
+        "stop" : 1597819398330,
+        "duration" : 12
+      }
+    } ]
+  }
+}

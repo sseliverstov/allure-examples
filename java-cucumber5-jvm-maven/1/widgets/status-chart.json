@@ -1,0 +1,71 @@
+[ {
+  "uid" : "f5968946c02a863",
+  "name" : "Delete existing label for authorized user",
+  "time" : {
+    "start" : 1597819397286,
+    "stop" : 1597819398296,
+    "duration" : 1010
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc93ec9df0382fad",
+  "name" : "Delete existing label via api",
+  "time" : {
+    "start" : 1597819396206,
+    "stop" : 1597819396212,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7860f8efb1de1c5f",
+  "name" : "Add label to existing issue for authorized user",
+  "time" : {
+    "start" : 1597819396259,
+    "stop" : 1597819397279,
+    "duration" : 1020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3acd3d1b2706b3c",
+  "name" : "Create new label via api",
+  "time" : {
+    "start" : 1597819396077,
+    "stop" : 1597819396088,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af7c9734d2d7c12f",
+  "name" : "Close existing milestone for authorized user",
+  "time" : {
+    "start" : 1597819398335,
+    "stop" : 1597819398340,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "582b1fbacd049a89",
+  "name" : "Create new label for authorized user",
+  "time" : {
+    "start" : 1597819396230,
+    "stop" : 1597819396241,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "2e8ef259be73bb45",
+  "name" : "Create new milestone for authorized user",
+  "time" : {
+    "start" : 1597819398318,
+    "stop" : 1597819398330,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
