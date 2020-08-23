@@ -1,1 +1,176 @@
-{ }
+{
+  "86f4278ae3656c930bfbf4f995656a70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "33753df1f3d49592",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1//#testresult/33753df1f3d49592",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189444565,
+        "stop" : 1598189444566,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3a079816f01dca81",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2//#testresult/3a079816f01dca81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597328523073,
+        "stop" : 1597328523075,
+        "duration" : 2
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "270a7c248786ba5e",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1//#testresult/270a7c248786ba5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189444557,
+        "stop" : 1598189444560,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "4805b1e12741a1f4",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2//#testresult/4805b1e12741a1f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597328523063,
+        "stop" : 1597328523068,
+        "duration" : 5
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ccba624c353a80ca",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1//#testresult/ccba624c353a80ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189444307,
+        "stop" : 1598189444337,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "d316f26534771d99",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2//#testresult/d316f26534771d99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597328522813,
+        "stop" : 1597328522842,
+        "duration" : 29
+      }
+    } ]
+  },
+  "42e78a12ffdafedde84c3e9a61585391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b75c4963458d8710",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1//#testresult/b75c4963458d8710",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189444596,
+        "stop" : 1598189444627,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "8d884dd82318e289",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2//#testresult/8d884dd82318e289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597328523102,
+        "stop" : 1597328523140,
+        "duration" : 38
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4ddfaad0b8b9ccb7",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1//#testresult/4ddfaad0b8b9ccb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189444536,
+        "stop" : 1598189444539,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "efaf95632e13cb8",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2//#testresult/efaf95632e13cb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597328523035,
+        "stop" : 1597328523037,
+        "duration" : 2
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9ba9a8ea3e2cffba",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1//#testresult/9ba9a8ea3e2cffba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189444509,
+        "stop" : 1598189444529,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "7ecb480c0efe19ff",
+      "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2//#testresult/7ecb480c0efe19ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597328523009,
+        "stop" : 1597328523028,
+        "duration" : 19
+      }
+    } ]
+  }
+}

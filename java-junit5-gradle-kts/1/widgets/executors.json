@@ -1,1 +1,10 @@
-[ ]
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #220760892",
+  "buildUrl" : "https://github.com/sseliverstov/allure-examples/actions/runs/220760892",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1/"
+} ]
