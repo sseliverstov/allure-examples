@@ -1,0 +1,4 @@
+{
+  "reporter": "allure-mocha",
+  "spec": "test/**/*.spec.js"
+}

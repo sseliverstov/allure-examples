@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "js-mocha",
+  "version": "1.0.0",
+  "description": "Allure jset examples",
+  "author": "Stanislav Seliverstov <s.seliverstov@gmail.com>",
+  "repository": "https://github.com/simple-elf/allure-examples/js-mocha",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1",
+    "allure-mocha": "^2.0.0-beta.8"
+  }
+}
