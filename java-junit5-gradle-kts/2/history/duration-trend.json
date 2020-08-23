@@ -1,5 +1,19 @@
 [ {
   "buildOrder" : 2,
+  "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 318
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 320
+  }
+}, {
+  "buildOrder" : 2,
   "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2/",
   "reportName" : "Allure Report with history",
   "data" : {

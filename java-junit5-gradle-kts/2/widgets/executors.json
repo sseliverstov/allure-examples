@@ -1,10 +1,10 @@
 [ {
   "name" : "GitHub Actions",
   "type" : "github",
-  "url" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts",
+  "url" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts",
   "buildOrder" : 2,
-  "buildName" : "GitHub Actions Run #207193105",
-  "buildUrl" : "https://github.com/simple-elf/allure-examples/actions/runs/207193105",
+  "buildName" : "GitHub Actions Run #220946177",
+  "buildUrl" : "https://github.com/sseliverstov/allure-examples/actions/runs/220946177",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://simple-elf.github.io/allure-examples/java-junit5-gradle-kts/2/"
+  "reportUrl" : "https://sseliverstov.github.io/allure-examples/java-junit5-gradle-kts/2/"
 } ]
