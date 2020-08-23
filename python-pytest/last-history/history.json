@@ -1,0 +1,102 @@
+{
+  "b72764c44099c7ca7a4b5bec40daa6bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c700a030f4e376d",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-pytest/13//#testresult/c700a030f4e376d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189399278,
+        "stop" : 1598189399278,
+        "duration" : 0
+      }
+    } ]
+  },
+  "343df479bb104a798c58c78499cf2468" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b92b229d523b94c6",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-pytest/13//#testresult/b92b229d523b94c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189399275,
+        "stop" : 1598189399275,
+        "duration" : 0
+      }
+    } ]
+  },
+  "42e323ddf0047d6e00a5d03504ba5a05" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b706ae7f20c1d7c",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-pytest/13//#testresult/b706ae7f20c1d7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189399272,
+        "stop" : 1598189399272,
+        "duration" : 0
+      }
+    } ]
+  },
+  "108bf42cbe136bccf4c1d5e800f3418c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77e8f32055826107",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-pytest/13//#testresult/77e8f32055826107",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189399280,
+        "stop" : 1598189399280,
+        "duration" : 0
+      }
+    } ]
+  },
+  "900df90e339357313e30a56027155ffd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "792adc771571fd11",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-pytest/13//#testresult/792adc771571fd11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189399277,
+        "stop" : 1598189399277,
+        "duration" : 0
+      }
+    } ]
+  }
+}

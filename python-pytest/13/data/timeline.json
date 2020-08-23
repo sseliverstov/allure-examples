@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az18",
+    "children" : [ {
+      "name" : "4069-MainThread",
+      "children" : [ {
+        "name" : "test_allure_fixture_test1",
+        "uid" : "b706ae7f20c1d7c",
+        "parentUid" : "77762014e6fdcd98ea20ddd6dcc64add",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598189399272,
+          "stop" : 1598189399272,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_allure_parametrized_test [Second name]",
+        "uid" : "c700a030f4e376d",
+        "parentUid" : "77762014e6fdcd98ea20ddd6dcc64add",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598189399278,
+          "stop" : 1598189399278,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Second name'" ]
+      }, {
+        "name" : "test_allure_parametrized_test [First name]",
+        "uid" : "792adc771571fd11",
+        "parentUid" : "77762014e6fdcd98ea20ddd6dcc64add",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598189399277,
+          "stop" : 1598189399277,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'First name'" ]
+      }, {
+        "name" : "test_allure_simple_test displayName",
+        "uid" : "77e8f32055826107",
+        "parentUid" : "77762014e6fdcd98ea20ddd6dcc64add",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598189399280,
+          "stop" : 1598189399280,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_allure_fixture_test2",
+        "uid" : "b92b229d523b94c6",
+        "parentUid" : "77762014e6fdcd98ea20ddd6dcc64add",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598189399275,
+          "stop" : 1598189399275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "77762014e6fdcd98ea20ddd6dcc64add"
+    } ],
+    "uid" : "c85eefc2223c2b2393fcf39ad51f001f"
+  } ],
+  "name" : "timeline"
+}
