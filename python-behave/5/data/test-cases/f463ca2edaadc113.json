@@ -1,0 +1,147 @@
+{
+  "uid" : "f463ca2edaadc113",
+  "name" : "Delete existing label for authorized user",
+  "historyId" : "2c6293600b0540488b45a54267780550",
+  "time" : {
+    "start" : 1598204139510,
+    "stop" : 1598204140513,
+    "duration" : 1003
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError\n",
+  "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/behave/model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/behave/matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features/steps/web_steps.py\", line 29, in delete_label_with_title\n    maybe_throw_assertion_exception(title)\n  File \"features/steps/web_steps.py\", line 85, in maybe_throw_assertion_exception\n    assert text == \"another text\"\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError\n",
+    "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/behave/model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/behave/matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features/steps/web_steps.py\", line 29, in delete_label_with_title\n    maybe_throw_assertion_exception(title)\n  File \"features/steps/web_steps.py\", line 85, in maybe_throw_assertion_exception\n    assert text == \"another text\"\n",
+    "steps" : [ {
+      "name" : "When I open labels page",
+      "time" : {
+        "start" : 1598204139511,
+        "stop" : 1598204139511,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I create label with title \"hello\"",
+      "time" : {
+        "start" : 1598204139511,
+        "stop" : 1598204139511,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I delete label with title \"hello\"",
+      "time" : {
+        "start" : 1598204139511,
+        "stop" : 1598204140513,
+        "duration" : 1002
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/behave/model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/behave/matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features/steps/web_steps.py\", line 29, in delete_label_with_title\n    maybe_throw_assertion_exception(title)\n  File \"features/steps/web_steps.py\", line 85, in maybe_throw_assertion_exception\n    assert text == \"another text\"\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Then I should not see note with content \"hello\"",
+      "time" : {
+        "start" : 1598204140513,
+        "stop" : 1598204140513,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b394501b57e8c0eb",
+        "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/b394501b57e8c0eb",
+        "status" : "broken",
+        "statusDetails" : "RuntimeError: Element not found for xpath [//div[@class='something']]\n",
+        "time" : {
+          "start" : 1598189404704,
+          "stop" : 1598189404706,
+          "duration" : 2
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "f463ca2edaadc113.json",
+  "parameterValues" : [ ]
+}
