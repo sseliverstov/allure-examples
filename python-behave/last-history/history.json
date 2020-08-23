@@ -1,0 +1,143 @@
+{
+  "717f0511ce4d0fe00e76113484a0f051" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c72d4f79e5c44baa",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/c72d4f79e5c44baa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189403698,
+        "stop" : 1598189403699,
+        "duration" : 1
+      }
+    } ]
+  },
+  "2c6293600b0540488b45a54267780550" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b394501b57e8c0eb",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/b394501b57e8c0eb",
+      "status" : "broken",
+      "statusDetails" : "RuntimeError: Element not found for xpath [//div[@class='something']]\n",
+      "time" : {
+        "start" : 1598189404704,
+        "stop" : 1598189404706,
+        "duration" : 2
+      }
+    } ]
+  },
+  "89b918b912287df1aae4c789a297a192" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cb762a2f6bed234",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/6cb762a2f6bed234",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189404708,
+        "stop" : 1598189404709,
+        "duration" : 1
+      }
+    } ]
+  },
+  "0f0a15182df0b840d6d9b36e79eb6484" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a0be7615bdf721",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/8a0be7615bdf721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189404706,
+        "stop" : 1598189404707,
+        "duration" : 1
+      }
+    } ]
+  },
+  "8c3a5b90445408153e29b97a06975a23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dec39fdcaddd458c",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/dec39fdcaddd458c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189403700,
+        "stop" : 1598189403701,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3ca2a82570b650339433b7160c01f3d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaf20a7a6782f606",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/eaf20a7a6782f606",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189403701,
+        "stop" : 1598189404704,
+        "duration" : 1003
+      }
+    } ]
+  },
+  "69c896b3df376ef2754d20e7bf3dd1ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a8798d0e2119378",
+      "reportUrl" : "https://sseliverstov.github.io/allure-examples/python-behave/4//#testresult/9a8798d0e2119378",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598189403696,
+        "stop" : 1598189403697,
+        "duration" : 1
+      }
+    } ]
+  }
+}
